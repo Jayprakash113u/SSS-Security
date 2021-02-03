@@ -1,0 +1,92 @@
+Cyber Crime and Cyber Law
+
+Information is a resource which has no value until it is extracted, processed and utilized. Information technology deals with information system, data storage, access, retrieval, analysis and intelligent decision making. Information technology refers to the creation, gathering, processing, storage, presentation and dissemination of information and also the processes and devices that enable all this to be done.
+
+Information technology is affecting us as individual and as a society. Information technology stands firmly on hardware and software of a computer and tele-communication infrastructure. But this is only one facet of the information Technology, today the other facets are the challenges for the whole world like cyber crimes and more over cyber terrorism. When Internet was first developed, the founding fathers hardly had any inkling that internet could transform itself into an all pervading revolution which could be misused for criminal activities and which required regulations. With the emergence of the technology the misuse of the technology has also expanded to its optimum level the examples of it are:
+- Cyber stalking
+- Cyber harassment
+- Cyber fraud
+- Cyber defamation
+- Spam
+- Hacking
+- Trafficking
+- Distribution
+- Posting and dissemination of obscene material including pornography,
+- Indecent exposure and child pornography etc.
+
+Password Threats
+We’ve all heard the warnings about password security. Never share your password. Never use the vendor default password (like admin). 
+Never use an easy-to-guess password (like Password123 or Mike1982). No matter what industry you work in, chances are, you’re hearing more about these password “rules” at your job. Recent high-profile security breach scandals, like the Target credit card information breach and the Adobe hack, have more business owners and companies taking steps to ensure that their network, and the sensitive information stored on it, is safe and secure.Types are:
+
+-Brute Force Attack
+-Dictionary Attack
+-Key Logger Attack
+
+Secure Your PC
+- Keep up with system and software security updates.
+- Have your wits about .
+- Enable a firewall.
+- Adjust your browser settings.
+- Install antivirus and anti spyware software.
+- Password protect your software and lock your device.
+- Encrypt your data.
+- Use a VPN.
+
+Computer Virus
+
+A computer virus is a malicious program that self-replicates by copying itself to another program. In other words, the computer virus spreads by itself into other executable code or documents. The purpose of creating a computer virus is to infect vulnerable systems, gain admin control and steal user sensitive data. Hackers design computer viruses with malicious intent and prey on online users by tricking them.
+
+One of the ideal methods by which viruses spread is through emails – opening the attachment in the email, visiting an infected website, clicking on an executable file, or viewing an infected advertisement can cause the virus to spread to your system. Besides that, infections also spread while connecting with already infected removable storage devices, such as USB drives.
+
+-Install a virus protection or an antivirus software and perform regular updates.
+-Create strong passwords.
+-Be cautious with emails links.
+-Use a firewall and enhance your browser’s Privacy Settings.
+-Use pop-up blocker and adjust your User Account Control.
+
+Online Banking
+
+-Choose an account with two factor authentication.
+-Create a strong password.
+-Secure your computer and keep it up-to-date.
+-Avoid clicking through emails.
+-Access your accounts from a secure location.
+-Always log out when you are done.
+-Set up account notifications (if available).
+-Monitor your accounts regularly.
+
+Online Shopping
+-Use a good anti-malware program.
+-Optimize your PC’s security settings.
+-Share payment information only with known or reputable vendors.
+-Use a credit card instead of a debit card.
+-Make sure the order checkout area is encrypted.
+-Print or save a copy of your orders.
+-Use strong passwords.
+-Check your statements often.
+-Remember: If it looks too good to be true…URL.
+
+ATM attacks and fraud
+
+ATM attacks and fraud continue to make headlines, despite the fact that the technology running ATM networks is becoming more secure and consumers are perhaps more vigilant than ever.
+But what do we mean exactly when we talk about ATM fraud? Far from being a simple smash-and-grab problem, ATM owners have to be vigilant against different types of threats to ensure they are protecting themselves and their customers.
+
+-Card Skimming
+-Card Trapping
+-Transaction Reversal Fraud 	
+-Cash Trapping
+-Physical Attacks
+-Logical Attacks
+
+Mobile Security
+
+-Use a screen lock
+-Use a SIM card lock
+-Protect sensitive data
+-Wireless protection
+-Protect bluetooth use
+-Application download security
+-Internet browsing
+-Turn off geotagging.
+-Remote wipe 
+-Install antivirus
